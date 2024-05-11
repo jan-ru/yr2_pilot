@@ -1,0 +1,73 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aligning business processes with regulatory requirements",
+    "section": "",
+    "text": "Document Control\n\n\n\nStatus\nVersion\nDate\nChanges from previous version\n\n\n\n\nDraft\n\n\n\n\n\nDraft\n0.1\n09 May 2024\nNone",
+    "crumbs": [
+      "Document Control"
+    ]
+  },
+  {
+    "objectID": "s3_case.html",
+    "href": "s3_case.html",
+    "title": "1  status update",
+    "section": "",
+    "text": "1.0.1 Alliander\nWhen discussing possible candidates where a pilot case study can be performed we discusses it might be useful to focus on semi-public organisations such as utility companies or indeed housing cooperations.\nOne such utility company is Alliander, it develops and operates energy networks. I received from Stijn the contact details of Pallas Agterberg and Perry Nouwens at Alliander. I have contacted Pallas1. From my own network I contacted Tiemen van der Tuin, who works with Alliander as a contractor. Pallas checked in the organisation if interviews would be possible but that was not the case due to the organisation having other priorities2.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>status update</span>"
+    ]
+  },
+  {
+    "objectID": "s3_case.html#initial-draft-interview-protocol",
+    "href": "s3_case.html#initial-draft-interview-protocol",
+    "title": "1  status update",
+    "section": "1.1 Initial draft interview protocol",
+    "text": "1.1 Initial draft interview protocol\nBefore the interview (to be captured in introductory letter/email)\n\nInterview ID:\nParticipant (name & position):\nRole in the organisation:\nProfessional experience (years):\nInterviewer:\n\nGeneral interview data and interview introduction\n\nDate:\nStart time:\nEnd time:\nFormat: individual inperson / individual online\nIntroduce myself and Vlerick\nRe-explain the subject of the interview\nMention expected duration\nAsk permission to record the conversation\n\nQuestions for checking model familiarity7\n\nModel 1 - OCEG Regulatory Change Model (OCEG (2018)) Q1 Are you familiar with the OCEG?\nA1 Yes / No / Somewhat\nModel 2 - Three Lines of Defence Model (IIA (2020))\nQ2 Are you familiar with the “three lines of defense model”?\nA2 Yes / No / Somewhat\nModel 3 - ISO 31000 Risk Management Process (ISO (2018))\nQ3 Are you familiar with the ISO model?\nA3 Yes / No / Somewhat\nComparing the OCEG model, the ISO model and the Three Lines of Defense Model:\nQ4 Of the three models discussed which is the one you relate to most?\nA4 1 / 2 / 3\nModel 4 Additionally I have drawn a model depicting information flows (down) from regulator to company and reporing flows (up) from company to regulator.\nQ5 Does the diagram approximate the reality in your experience?\nA5 Yes / No / Somewhat\n\nQuestions on Regulatory Change Management\nBasing yourself on the model you are most familiar with:\n\nWere in the organisation are you situated?\nWhat are departments/functions you mostly interact with?\nWhich are the main processes that you are involved with?\nWhat are the main systems supporting these processes?\nAre you involved with “translating” regulations into “business rules”?\nIf so, in what way?\n\nIdentify & Define\n\nWhich function is responsible for monitoring EU regulations, decisions and directives?\nIs the indentification of regulatory risks performed centrally or decentrally?\nDo you maintain an internal taxonomy related to regulatory risks?\n\nTrack & Analyze\n\nDo you have an example of a recent regulatory change?\nIf, for example, there is a change in the EU AML directive: what would specifically happen?\nHow do you find if business processes need to be adapted?\n\nMonitor & Map\n\nIf business processes need to be adapted, how do you know which ones?\nWhat happens in case of conflicting regulations?\nHow are risks mapped to business processes and how is this modelled?\n\nControl & Manage\n\nIn your organisation how is compliance management embeded? Is it part of a risk management function?\nIf compliance management is under risk management, how are regulatory requirements linked to risks?\nIs there an individual or a group of individuals responsible for regulatory compliance?\n\nReport & Record\n\nHow is the audit trail maintained?\nCan exceptions in an exception report be traced back to regulations?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>status update</span>"
+    ]
+  },
+  {
+    "objectID": "s3_case.html#previous-version-mini-case-study---status-28112023",
+    "href": "s3_case.html#previous-version-mini-case-study---status-28112023",
+    "title": "1  status update",
+    "section": "1.2 Previous version: Mini Case Study - Status 28/11/2023",
+    "text": "1.2 Previous version: Mini Case Study - Status 28/11/2023\nSince the call on 18/10/2023 I have identified 3 prospects where potentially an initial mini case study can be performed with respect to:\nRQ-1: What are approaches for aligning business processes with regulatory requirements to achieve regulatory compliance by design?\nMedTech Startup\nPraxasense is a startup developing a heart-rhythm monitorig device. The company is a spin-off of the TU Delft. It was founded in 2019 and it employees 10 people.\nContact: Leonard Moonen (CEO)\nAddress: Molengraaffsingel 12, 2629 JD Delft (NL).\nAdvantage: the company is small and I would have full access to the team preparing for certification (ISO 13485). ISO 13485 is a norm based on ISO9001 that all companies producing medical equipment need to be compliant with.\nDisadvantage: the company is an R&D company that is presently not regulated yet as there are no commercial activities.\nFinancial Institution\nRabobank is one of three large banks in the Netherlands. Rabobank exists since 1972. It employs 43 thousand people.\nContact: Eiso Bos (Global Head Financial Economic Crime Governance, Risk & Change)\nAddress: Croeselaan 18, 3521 CB Utrecht (NL)\nAdvantage: the Rabobank is a well known name (in NL). Performing a mini case study well may lead to doing case studies with other financial institutions.\nDisadvantage: I may have limited access to my contact. Also the main processes (of interest to the bank) are likely about KYC (know your customer) and AML (anti money laundering).\nHousing Association\nLaurentius is a housing association bases in Breda. They rent and maintain some 8.300 real estate objects.\nPossible contact: Paul van Roosmalen (CEO)\nAdvantage: Two advantages are 1) an advanced data exchange with the government and 2) a possible link with CO2 emissions. Housing Associations are highly regulated in the Netherlands. In September 2022 a covenant has been signed relating to further improve the information exchange with the government (system-to-system) based on SBR (XBRL).\nDisadvantage: I have not yet been in contact with a Laurentius, so no visibility about the timeline yet.\nNote: if other cases are situated in the same (housing) sector, further contact is AEDES (vereniging van woningcooperaties).\nConcluding remarks\nShort term most progress can likely be made in a smaller (less complex) organisation?\nLonger term the housing association sector can provide for interesting case studies. The information exchange with the government entails more than actual financial data. Next to actual financial data also planning data is exchanged. A sector wide taxonomy has been defined (information model) that facilitates inter-organisation business processes.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>status update</span>"
+    ]
+  },
+  {
+    "objectID": "s3_case.html#conceptual-model---regulatory-change-management",
+    "href": "s3_case.html#conceptual-model---regulatory-change-management",
+    "title": "1  status update",
+    "section": "1.3 Conceptual model - Regulatory Change Management",
+    "text": "1.3 Conceptual model - Regulatory Change Management\nThere is an existing model published by OCEG (&Refinitiv) that is used as a reference. The 2018 version is redrawn below ((RegulatoryChangeManagement2018?)).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>status update</span>"
+    ]
+  },
+  {
+    "objectID": "s3_case.html#footnotes",
+    "href": "s3_case.html#footnotes",
+    "title": "1  status update",
+    "section": "",
+    "text": "Vlerick emailbox: 13/12/2023↩︎\nVlerick emailbox: 8/1/2024↩︎\nHvA emailbox: 12/12/2023↩︎\nHvA emailbox: 03/01/2024↩︎\nHvA emailbox: 07/02/2024↩︎\ngmail emailbox: 22/11/2023↩︎\nthe 4 models mentioned will each consist of a one page diagram and a one page explanatory text.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>status update</span>"
+    ]
+  },
+  {
+    "objectID": "s5_results.html",
+    "href": "s5_results.html",
+    "title": "Appendix A — Results2",
+    "section": "",
+    "text": "Here are my results. I computed them with this formula:\n\\[ y = mx + b  \\tag{A.1}\\]\nI have plotted them in this figure:\n\n\n\n\n\n\nFigure A.1: Amazing results of a line.\n\n\n\nI have also listed some of the points on this line in the following table:\n\n\n\nTable A.1: Results related to my line.\n\n\n\n\n\nX\nY\n\n\n\n\n1\n1\n\n\n2\n2\n\n\n3\n3\n\n\n4\n4\n\n\n\n\n\n\nThat was truly amazing. In Section ?sec-result, we saw all there was to see about lines. First, in Equation Equation A.1, we saw the deep Maths behind a line. Second, we saw the most beautiful depiction of a line (Figure Figure A.1). Third, Table Table A.1 presented us, in all their glory, points to a line.\nThis page is copied from Scientifically Sound. [For the code to work it needs the xnos filter, which can be installed with pip install pandoc-xnos.]\nSection Appendix A — Results2 is number & name of this page.\nPlease contact us at ?var:email.info.\nemail ?var:support\nAuthor.name: ?meta:book.author.name\nbook.part: ?meta:book.part\nchapters.part: ?meta:chapters.part\nbook.title: Aligning business processes with regulatory requirements\nbook.date: 4/26/2024\nformat: ?meta:format\nformat.theme: ?meta:format.theme\nformat.documentclass: ?meta:format.documentclass\nbibliography: MyLibrary.bib\nmeta title: Appendix A — Results2 is number & name of this page.\nmeta book.title: Aligning business processes with regulatory requirements\nmeta book.subtitle:",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Results2</span>"
+    ]
+  }
+]
