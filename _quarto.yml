@@ -46,9 +46,10 @@ book:
 
   chapters:
     - index.qmd
+    - s3_case.qmd
 
   appendices:
-    - s2_slr_doc_a_databases_searched.qmd
+    - s5_results.qmd
 
 license: "CC BY"
 latex-output-dir: output
