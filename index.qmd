@@ -10,5 +10,7 @@ crossref:
 
 |Status | Version | Date       | Changes from previous version |
 |-------|---------|------------|-------------------------------|
-|Draft  |         |            |                               |
-|Draft  | 0.1     | 09 May 2024| None                          |
+|Draft  | 0.1     | 28-11-2023 | Initial version               |
+|Draft  | 0.2     | 09-05-2024 | Added potential interviewees  |
+|Draft  | 0.3     | 14-09-2024 | Added regulatory proces figure|
+|       |         |            |                               |

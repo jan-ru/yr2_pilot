@@ -52,6 +52,13 @@ One such utility company is [Alliander](https://www.alliander.com), it develops 
 [^1]: Vlerick emailbox: 13/12/2023
 [^2]: Vlerick emailbox: 8/1/2024
 
+![template](/static/View_2024_template.jpg)
+
+\newpage
+
+![template](/static/View_2024_finance.jpg)
+
+
 ### Rabobank
 
 After explaining my thesis subject to Huib Klamer (ex [VNO-NCW](https://www.vno-ncw.nl/over-vno-ncw/english)), he provided for the contact details of [Eiso Bos](https://www.linkedin.com/in/eisobos/) at the Rabobank. I have contacted Eiso[^3], received a reply[^4] and an introductory call was organised for Friday, February 2nd. I have asked for, and Eiso agreed to facilitate, (a max of) 5 semi-structured 1 hour interviews to take place in the first half of March. I have shared the [introductory presentation](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/ERKTfsg3W1VHv-GLH1fcVJcBqpbvqQIRwqoFu9X1Dooqfw?e=mwBhic) had prepared for the meeting and I also added a [complementary presentation](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/EWeJ1qh9Wx1GtpSYv_chnVEBybZ6sxIXCJbEL15rg9xPHA?e=wCSqAA).[^5]
@@ -97,7 +104,7 @@ There are an approximate 50 NL financial services companies that committed to co
 
 \newpage
 
-## Initial draft interview protocol
+## Initial draft interview protocol {.appendix}
 
 *Before the interview (to be captured in introductory letter/email)*
 
@@ -184,21 +191,6 @@ Report & Record
 
 \newpage
 
-## Previous version: Mini Case Study - Status 28/11/2023
-
-Since the call on 18/10/2023 I have identified 3 prospects where potentially an initial mini case study can be performed with respect to:
-
-RQ-1: What are approaches for aligning business processes with regulatory requirements to achieve regulatory compliance by design?
-
-**MedTech Startup**
-
-[Praxasense](https://praxasense.com/) is a startup developing a heart-rhythm monitorig device. The company is a spin-off of the TU Delft. It was founded in 2019 and it employees 10 people.  
-Contact: Leonard Moonen (CEO)  
-Address: Molengraaffsingel 12, 2629 JD Delft (NL).
-
-Advantage: the company is small and I would have full access to the team preparing for certification (ISO 13485). ISO 13485 is a norm based on ISO9001 that all companies producing medical equipment need to be compliant with.
-
-Disadvantage: the company is an R&D company that is presently not regulated yet as there are no commercial activities.
 
 **Financial Institution**
 
@@ -230,7 +222,7 @@ Longer term the housing association sector can provide for interesting case stud
 \newpage
 
 
-## Conceptual model - Regulatory Change Management
+## Conceptual model - Regulatory Change Management {.appendix}
 
 There is an existing model published by OCEG (&Refinitiv) that is used as a reference. The 2018 version is redrawn below (@RegulatoryChangeManagement2018).
 

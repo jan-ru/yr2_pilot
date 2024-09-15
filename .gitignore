@@ -3,3 +3,6 @@
 /static
 /y_pubications.qmd
 /z_files
+/.quarto/
+/output
+*.bib

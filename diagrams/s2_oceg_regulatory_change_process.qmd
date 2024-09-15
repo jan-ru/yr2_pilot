@@ -1,0 +1,41 @@
+---
+format:
+  pdf:
+    include-in-header: 
+      text:
+        \usepackage{multicol, lipsum}
+---
+
+<!--
+Mermaid diagram showing the OCEG Regulatory Change Process.
+-->
+
+\begin{minipage}[t]{0.25\textwidth}
+\vspace{14pt}
+\includegraphics{flowchart_oceg.png}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.75\textwidth}
+\vspace{0pt}
+The process steps in the model are detailed as follows : \\ \\
+1. Identify \& Define \\
+1.1 Develop Company Profile \\
+1.2 Apply Regulatory Content Taxonomy \\
+1.3 Establish Risk Based Regulatory Library \\ \\ \\ \\
+2. Track \& Analyze \\
+2.1 Track Relevant Regulatory Actions \\
+2.2 Compare and Analyze \\
+2.3 Maintain Regulatory Library \\ \\ \\ \\
+3. Monitor \& Map \\
+3.1 Monitor Regulatory Events to Affected Areas \\
+3.2 Evaluate Need for Control/Actions Changes \\
+3.3 Notify/Control Policy Owners \\ \\ \\ \\
+4. Control \& Manage \\
+4.1 Evaluate Flagged Impacts on Controls/Actions and Operations \\
+4.2 Determine Changes, Implement and Record \\
+4.3 Identify Exceptions and Record Reasons/Alternatives \\ \\ \\ \\
+5. Report \& Record \\
+5.1 Continuously Monitor and Analyze \\
+5.2 Report Key Changes and Business Impacts \\
+5.3 Maintain Audit Trail of Compliance \\
+\end{minipage}

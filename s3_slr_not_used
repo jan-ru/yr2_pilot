@@ -8,28 +8,22 @@ include-in-header:
         \rohead{}
         \lofoot{}
 
-    geometry:
-      - top=30mm
-      - left=20mm
-      - heightrounded
 
 ---
 
-\newpage
 
 Further concepts to be clearly defined:
 
-**Legal compliance**
+### Legal compliance
 
 In her thesis "Understanding non-compliance" [@ramezanitaghiabadiUnderstandingNoncompliance2017], Ramezani "improving process compliance, i.e., the ability of an organization to follow legal and contractual constraints in their daily operation".
 In figure 1.2 it is shown that "Standards", "Laws", "Internal controls", "Policies", "Regulations" en "Contractual Obligations" are all input to a repository of "Compliance constraints".
 
+### Regulatory compliance
 
-**Regulatory compliance**
+[Legal and Regulatory Compliance](https://www.planetcompliance.com/legal-and-regulatory-compliance/)
 
-https://www.planetcompliance.com/legal-and-regulatory-compliance/
-
-[Compliance](https://thecontentauthority.com/blog/conformance-vs-compliance) and 
+[Compliance](https://thecontentauthority.com/blog/conformance-vs-compliance) and
 [Conformance](https://thecontentauthority.com/blog/conformance-vs-compliance)
 
 Conformance refers to the act of adhering to a set of standards or requirements. It involves ensuring that a product, service, or system meets the specified expectations and performs as intended. Conformance can be viewed as a proactive approach to quality management, where the focus is on preventing defects and errors from occurring in the first place.
@@ -45,14 +39,13 @@ Object centric process mining
 ## Next steps
 
 To be discussed on 28/11/2023:
+
 - merge search results into one bibtex file?
-
-To be added still:
-
-7) OpenAlex [@priemOpenAlexFullyopenIndex2022]
+- To be added still:
+- OpenAlex [@priemOpenAlexFullyopenIndex2022]
 
 ## Literature
 
 Reference publish or perish software
 The dblp team: dblp computer science bibliography. Monthly snapshot release of
-    November 2023. https://dblp.org/xml/release/dblp-2023-11-01.xml.gz
+    November 2023. [monthly snapshot](https://dblp.org/xml/release/dblp-2023-11-01.xml.gz)

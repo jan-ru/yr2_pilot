@@ -30,18 +30,6 @@ bibliography: MyLibrary.bib
 keywords: modelling languages, controlled natural language
 
 ---
-# Mini Case Study (II)
-
-After discussion we settled on the following:
-
-- MedTech: not to pursue this prospect as the organization is only in the early stages of applying BPM.
-- Financial Institution: maybe of interest as certain parts of the organisation will likely be more advanced in the application of BPM then other parts of the organisation. This may provide for an opportunity to contrast two parts of the organisation.
-- Housing Association: maybe of interest as a semi-public organisation. We concluded that semi-public organisations maybe ahead of private organisations in implementing new regulatory requirements.
-
-### Nutsbedrijf (engels)
-
-
-\newpage
 
 # Mini Case Study (I)
 
@@ -54,7 +42,6 @@ RQ-1: What are approaches for aligning business processes with regulatory requir
 [Praxasense](https://praxasense.com/) is a startup developing a heart-rhythm monitorig device. The company is a spin-off of the TU Delft. It was founded in 2019 and it employees 10 people.
 
 Address: Molengraaffsingel 12, 2629 JD Delft.
-
 Contact: Leonard Moonen (CEO)
 
 Advantage: the company is small and I would have full access to the team preparing for certification (ISO 13485). ISO 13485 is a norm based on ISO9001 that all companies producing medical equipment need to be compliant with.
@@ -66,7 +53,6 @@ Disadvantage: the company is an R&D company that is presently not regulated yet 
 [Rabobank](www.rabobank.com) is one of three large banks in the Netherlands. Rabobank exists since 1972. It employs 43 thousand people. 
 
 Contact: Eiso Bos (Global Head Financial Economic Crime Governance, Risk & Change)
-
 Address: Croeselaan 18, 3521 CB Utrecht
 
 Advantage: the Rabobank is a well known name (in NL). Performing a mini case study well may lead to doing case studies with other financial institutions.
@@ -107,4 +93,32 @@ To watch: [arcrole](https://www.arcrole.com/) in Vlaardingen
 
 Thauris Sebastiaan Bol
 
-aedes
+aedes: woningbouwcorporatie
+
+\newpage
+
+# Mini Case Study (II)
+
+After discussion we settled on the following:
+
+- MedTech: not to pursue this prospect as the organization is only in the early stages of applying BPM.
+- Financial Institution: maybe of interest as certain parts of the organisation will likely be more advanced in the application of BPM then other parts of the organisation. This may provide for an opportunity to contrast two parts of the organisation.
+- Housing Association: maybe of interest as a semi-public organisation. We concluded that semi-public organisations maybe ahead of private organisations in implementing new regulatory requirements.
+
+### Nutsbedrijf (engels)
+
+## Previous version: Mini Case Study - Status 28/11/2023
+
+Since the call on 18/10/2023 I have identified 3 prospects where potentially an initial mini case study can be performed with respect to:
+
+RQ-1: What are approaches for aligning business processes with regulatory requirements to achieve regulatory compliance by design?
+
+**MedTech Startup**
+
+[Praxasense](https://praxasense.com/) is a startup developing a heart-rhythm monitorig device. The company is a spin-off of the TU Delft. It was founded in 2019 and it employees 10 people.  
+Contact: Leonard Moonen (CEO)  
+Address: Molengraaffsingel 12, 2629 JD Delft (NL).
+
+Advantage: the company is small and I would have full access to the team preparing for certification (ISO 13485). ISO 13485 is a norm based on ISO9001 that all companies producing medical equipment need to be compliant with.
+
+Disadvantage: the company is an R&D company that is presently not regulated yet as there are no commercial activities.
