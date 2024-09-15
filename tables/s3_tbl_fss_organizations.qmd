@@ -1,0 +1,34 @@
+<!--
+Table of organizations that may be of interest if as a sector "Financial Services" would be chosen.
+-->
+
+Organizations to consider in this sector:
+
+| Type               |Abbrev.        | Name                               |Possible contact                    | 
+|--------------------|---------------|------------------------------------|------------------------------------|
+| Trade association  |[NVB][NVB1-ref]| Nederlandse Vereniging van Banken  |                                    |
+| Central Bank       |[DNB][DNB1-ref]| DNB De Nederlanse Bank             |[Willem Jan Willemse, PhD][DNB2-ref]|
+| Regulator          |[AFM][AFM1-ref]| Autoriteit Financiele Markten      |    [Jerry Wouterson, PhD][AFM2-ref]|
+| Bank               |[KBC][KBC1-ref]| KBC Bank                           |           [Ilse Lampaert][KBC2-ref]|
+| Pension Fund       |[ABP][ABP1-ref]| Algemeen Burgerlijk Pensioenfonds  |         [Joos Buijs, PhD][ABP2-ref]|
+| Interest Group     |[XBRL][XB1-ref]| XBRL Netherlands                   |            [Jacques Urlus][XB2-ref]|
+| Auditor            |[KPMG][KP1-ref]| KPMG Netherlands                   |      [Elham Ramezani, PhD][KP2-ref]|
+| Auditor            |[PWC][PWC1-ref]| PWC Netherlands                    |       [Mona de Boer, PhD][PWC2-ref]|
+
+[NVB1-ref]: https://www.nvb.nl/
+[DNB1-ref]: https://www.dnb.nl/
+[DNB2-ref]: https://www.linkedin.com/in/willem-jan-willemse-3626a0/
+[AFM1-ref]: https://afm.nl/
+[AFM2-ref]: https://www.linkedin.com/in/jerrywouterson/
+[KBC1-ref]: https://www.kbc.com/en/kbc-bank.html
+[KBC2-ref]: https://www.linkedin.com/in/ilse-lampaert-2573353b/
+[ABP1-ref]: https://www.abp.nl/
+[ABP2-ref]: https://www.linkedin.com/in/joosbuijs/
+[XB1-ref]: https://nl.xbrl.org/
+[XB2-ref]: https://www.linkedin.com/in/urlus/
+[KP1-ref]: https://kpmg.com/nl/en/home.html
+[KP2-ref]: https://www.linkedin.com/in/elhamramezani/
+[PWC1-ref]: https://www.pwc.nl/
+[PWC2-ref]: https://www.linkedin.com/in/mona-de-boer-phd-a9b0855/
+
+: Financial Services {.striped .hover}

@@ -93,7 +93,7 @@ If the Rabobank interviews lead to an initial answer of the research question ot
 
 There are an approximate 50 NL financial services companies that committed to contributing to the Paris Agreement. The [signatories](https://klimaatcommitment.nl/ondertekenaars/) agreed, among others, to measure CO2 volumes related to their lending and investment. Among this group of companies it shall be possible to research cases specifically in relation to CSRD.
 
-{{< include tables/s2_tbl_fss_organizations.qmd >}}
+{{< include tables/s3_tbl_fss_organizations.qmd >}}
 
 \newpage
 
