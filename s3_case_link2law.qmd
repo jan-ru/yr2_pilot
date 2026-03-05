@@ -1,14 +1,11 @@
 ---
-project:
-  type: default
-  output-dir: output
 title: ""
 subtitle: "Agile Law Making (Thesis)"
-date: "11-01-2023"
-date-format: "D/MM/YYYY"
-date-modified: "10-23-2023"
+date: "01/11/2023"
+date-format: "DD/MM/YYYY"
+date-modified: "23/10/2023"
 author:
-  - name:
+  - name: Jan-Ru Muller
     orcid: 0000-0003-1689-0557
     email: j.r.muller@hva.nl
     affiliations:
@@ -27,7 +24,6 @@ format:
     include-in-header: 
       text:
         \usepackage{imakeidx, bibentry}
-latex-output-dir: "output"
 toc: false
 toc-depth: 2
 bibliography: MyLibrary.bib

@@ -1,11 +1,11 @@
 ---
 title: "SLR"
 subtitle: "Test Run"
-date: "11-24-2023"
-date-format: "D/MM/YYYY"
-date-modified: "11-24-2023"
+date: "24/11/2023"
+date-format: "DD/MM/YYYY"
+date-modified: "24/11/2023"
 author:
-  - name:
+  - name: Jan-Ru Muller
     orcid: 0000-0003-1689-0557
     email: j.r.muller@hva.nl
     affiliations:
@@ -67,8 +67,9 @@ Change per 01-12-2023: include openAlex
 
 
 ```{python}
-#| label: status 
-#| tbl-cap: Project Status {#tbl-status}
+#| label: status
+#| tbl-cap: Project Status
+#| eval: false
 from IPython.display import Markdown
 from tabulate import tabulate
 from lib.my_custom_lib import xls2md
@@ -78,9 +79,10 @@ sheetname = 'Pivot'
 col1 = 'Row Labels'
 col2 = 'A. WoS'
 col3 = 'B. SD'
+col4 = 'C. Other'  # TODO: confirm correct column name
 
 Markdown(tabulate(
-  xls2md(filename), 
+  xls2md(filename),
   headers=[col1, col2, col3, col4],
   maxcolwidths=[None, None],
   showindex=False,

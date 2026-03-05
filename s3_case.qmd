@@ -1,12 +1,9 @@
 ---
-project:
-  type: default
-  output-dir: output
 title: "status update"
 subtitle: "Vlerick DBA - Mini Case Study"
-date: "02-17-2024"
-date-format: "D/MM/YYYY"
-date-modified: "02-17-2024"
+date: "17/02/2024"
+date-format: "DD/MM/YYYY"
+date-modified: "17/02/2024"
 author:
   - name: Jan-Ru Muller
     orcid: 0000-0003-1689-0557
@@ -20,20 +17,19 @@ author:
         address: Reep 1
         city: Ghent
         postal-code: 9000
-co-authors:
   - name: Amy Van Looy
+    role: co-author
   - name: Stijn Viaene
+    role: co-author
 abstract: ""
 format:
   pdf:
     cite-method: citeproc
-    include-in-header: 
+    include-in-header:
       text:
         \usepackage{imakeidx, bibentry}
-latex-output-dir: "output"
 toc: false
 toc-depth: 2
-bibliography: MyLibrary.bib
 keywords: modelling languages, controlled natural language
 
 ---
@@ -77,20 +73,20 @@ No progress has been made on making contact with anybody at a housing associatio
 
 From the introductory call it is my understanding that there are approximately 6.000 employees working on compliance related tasks (**check**).
 
-CSRD is outside of Eiso's responsibility. In discussing a possible case two laws to focus on were mentioned.  
-- In dutch: de [Sanctiewet (1977)](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&z=2020-05-21&g=2020-05-21)  
-- Dutch Anti-Money Laundering and Anti-Terrorist Financing Act (2008), de wet ter voorkoming van witwassen en financieren van terrorisme [wwft (2008)](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&z=2022-11-01&g=2022-11-01)  
+CSRD is outside of Eiso's responsibility. In discussing a possible case two laws to focus on were mentioned.
+- In dutch: de [Sanctiewet (1977)](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&z=2020-05-21&g=2020-05-21)
+- Dutch Anti-Money Laundering and Anti-Terrorist Financing Act (2008), de wet ter voorkoming van witwassen en financieren van terrorisme [wwft (2008)](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&z=2022-11-01&g=2022-11-01)
 
-Of the two the "Sanctiewet" is shorter, counting 24 articles. The "Sanctiewet" is a framework for implementing various EU sanctions regulations. An example of such sanctions regulations is [Regulation (EU) No. 833/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0833) imposing sanctions on Russia due to the annexation of Crimea.  
-The WWFT consists of 107 articles. The WWFT implements various EU directives about Anti-Money Laundering AML. An example of of an EU AML directive is [Directive 2018/843/EU](https://eur-lex.europa.eu/eli/dir/2018/843) (Fifth AMLD). 
+Of the two the "Sanctiewet" is shorter, counting 24 articles. The "Sanctiewet" is a framework for implementing various EU sanctions regulations. An example of such sanctions regulations is [Regulation (EU) No. 833/2014](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0833) imposing sanctions on Russia due to the annexation of Crimea.
+The WWFT consists of 107 articles. The WWFT implements various EU directives about Anti-Money Laundering AML. An example of of an EU AML directive is [Directive 2018/843/EU](https://eur-lex.europa.eu/eli/dir/2018/843) (Fifth AMLD).
 
-Even if the planned interviews are not focussed on CSRD I will still learn the process of translating regulation into systems requirements and ultimately business processes. 
+Even if the planned interviews are not focussed on CSRD I will still learn the process of translating regulation into systems requirements and ultimately business processes.
 
 **Comment for AVL and SV:** when speaking to Eiso he seemed not familiar or less familiar with the OCEG model and rather refered to the "three lines of defence model".
 
-On page 4 an initial draft of a proposed interview protocol is included. The goal of the interviews is two fold: 
-- First, I would like to use the opportunity to test the familiarity of the subjects with different models that relate to compliance management (and related: risk management). For this I will show 3 existing models. Separately I will ask for feedback on an initial model I have developed that shows (assumed) steps in the process from the creation of regulations until the reporting on compliance with such regulations. 
-- Second, I would like to gain an understanding about functions, processes, systems involved in the adoption of new or updated regulations.  
+On page 4 an initial draft of a proposed interview protocol is included. The goal of the interviews is two fold:
+- First, I would like to use the opportunity to test the familiarity of the subjects with different models that relate to compliance management (and related: risk management). For this I will show 3 existing models. Separately I will ask for feedback on an initial model I have developed that shows (assumed) steps in the process from the creation of regulations until the reporting on compliance with such regulations.
+- Second, I would like to gain an understanding about functions, processes, systems involved in the adoption of new or updated regulations.
 
 **Question to AVL and SV:** probably stick to one objective at this stage?
 
@@ -103,6 +99,7 @@ There are an approximate 50 NL financial services companies that committed to co
 {{< include tables/s3_tbl_fss_organizations.qmd >}}
 
 \newpage
+
 
 ## Initial draft interview protocol {.appendix}
 
@@ -125,31 +122,31 @@ There are an approximate 50 NL financial services companies that committed to co
 1. Mention expected duration
 1. Ask permission to record the conversation
 
-*Questions for checking model familiarity*[^7]  
+*Questions for checking model familiarity*[^7]
 
-[^7]: the 4 models mentioned will each consist of a one page diagram and a one page explanatory text.  
+[^7]: the 4 models mentioned will each consist of a one page diagram and a one page explanatory text.
 
-1. [Model 1](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/ET8TLbmuOypClT7AiAW0YCIBkhtYw9lYizp9a2Yefleddw?e=cBhcXt) - OCEG Regulatory Change Model (@ocegRegulatoryChangeManagement2018) 
-Q1 Are you familiar with the OCEG?    
-A1 Yes / No / Somewhat  
+1. [Model 1](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/ET8TLbmuOypClT7AiAW0YCIBkhtYw9lYizp9a2Yefleddw?e=cBhcXt) - OCEG Regulatory Change Model (@ocegRegulatoryChangeManagement2018)
+Q1 Are you familiar with the OCEG?
+A1 Yes / No / Somewhat
 
-1. [Model 2](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/EWXx4Aev5BhEt_3M9tGh_N4BeA2FNm_hkl_FsHuqPHeErg?e=Wsu6tr) - Three Lines of Defence Model (@iiaThreeLinesDefence2020)   
-Q2 Are you familiar with the  "three lines of defense model"?  
+1. [Model 2](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/EWXx4Aev5BhEt_3M9tGh_N4BeA2FNm_hkl_FsHuqPHeErg?e=Wsu6tr) - Three Lines of Defence Model (@iiaThreeLinesDefence2020)
+Q2 Are you familiar with the  "three lines of defense model"?
 A2 Yes / No / Somewhat
 
-1. [Model 3](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/EQKtXu29H1hLiJ4oWA1NfaMBjiV1pxttNC6XtkTVT0zvTw?e=60qnQb) - ISO 31000 Risk Management Process (@isoISO3100020182018)  
-Q3 Are you familiar with the ISO model?  
-A3 Yes / No / Somewhat  
+1. [Model 3](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/EQKtXu29H1hLiJ4oWA1NfaMBjiV1pxttNC6XtkTVT0zvTw?e=60qnQb) - ISO 31000 Risk Management Process (@isoISO3100020182018)
+Q3 Are you familiar with the ISO model?
+A3 Yes / No / Somewhat
 
-1. Comparing the OCEG model, the ISO model and the Three Lines of Defense Model:  
-Q4 Of the three models discussed which is the one you relate to most?  
+1. Comparing the OCEG model, the ISO model and the Three Lines of Defense Model:
+Q4 Of the three models discussed which is the one you relate to most?
 A4 1 / 2 / 3
 
-1. [Model 4](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/EcFF35AKHRxCmC8MfrDL5EwB71Di1jQE2LCOJORCBuByDQ?e=1SG0xB) Additionally I have drawn a model depicting information flows (down) from regulator to company and reporing flows (up) from company to regulator.  
-Q5 Does the diagram approximate the reality in your experience?  
+1. [Model 4](https://eduvlerick-my.sharepoint.com/:b:/g/personal/janru_muller_edu_vlerick_com/EcFF35AKHRxCmC8MfrDL5EwB71Di1jQE2LCOJORCBuByDQ?e=1SG0xB) Additionally I have drawn a model depicting information flows (down) from regulator to company and reporing flows (up) from company to regulator.
+Q5 Does the diagram approximate the reality in your experience?
 A5 Yes / No / Somewhat
 
-*Questions on Regulatory Change Management* 
+*Questions on Regulatory Change Management*
 
 Basing yourself on the model you are most familiar with:
 
@@ -164,7 +161,7 @@ Identify & Define
 
 1. Which function is responsible for monitoring EU regulations, decisions and directives?
 1. Is the indentification of regulatory risks performed centrally or decentrally?
-1. Do you maintain an internal taxonomy related to regulatory risks? 
+1. Do you maintain an internal taxonomy related to regulatory risks?
 
 Track & Analyze
 
@@ -194,8 +191,8 @@ Report & Record
 
 **Financial Institution**
 
-[Rabobank](www.rabobank.com) is one of three large banks in the Netherlands. Rabobank exists since 1972. It employs 43 thousand people.  
-Contact: Eiso Bos (Global Head Financial Economic Crime Governance, Risk & Change)  
+[Rabobank](https://www.rabobank.com) is one of three large banks in the Netherlands. Rabobank exists since 1972. It employs 43 thousand people.
+Contact: Eiso Bos (Global Head Financial Economic Crime Governance, Risk & Change)
 Address: Croeselaan 18, 3521 CB Utrecht (NL)
 
 Advantage: the Rabobank is a well known name (in NL). Performing a mini case study well may lead to doing case studies with other financial institutions.
@@ -204,12 +201,12 @@ Disadvantage: I may have limited access to my contact. Also the main processes (
 
 **Housing Association**
 
-[Laurentius](https://www.laurentiuswonen.nl/) is a housing association bases in Breda. They rent and maintain some 8.300 real estate objects.  
+[Laurentius](https://www.laurentiuswonen.nl/) is a housing association bases in Breda. They rent and maintain some 8.300 real estate objects.
 Possible contact: Paul van Roosmalen (CEO)
 
 Advantage: Two advantages are 1) an advanced data exchange with the government and 2) a possible link with CO2 emissions. Housing Associations are highly regulated in the Netherlands. In September 2022 a covenant has been signed relating to further improve the information exchange with the government (system-to-system) based on SBR (XBRL).
 
-Disadvantage: I have not yet been in contact with a Laurentius, so no visibility about the timeline yet. 
+Disadvantage: I have not yet been in contact with a Laurentius, so no visibility about the timeline yet.
 
 Note: if other cases are situated in the same (housing) sector, further contact is [AEDES](https://aedes.nl/) (vereniging van woningcooperaties).
 
