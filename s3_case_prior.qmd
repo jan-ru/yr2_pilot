@@ -1,11 +1,11 @@
 ---
 title: ""
 subtitle: "Prospects for Mini Case Study"
-date: "11-05-2023"
-date-format: "D/MM/YYYY"
-date-modified: "11-05-2023"
+date: "05/11/2023"
+date-format: "DD/MM/YYYY"
+date-modified: "05/11/2023"
 author:
-  - name:
+  - name: Jan-Ru Muller
     orcid: 0000-0003-1689-0557
     email: j.r.muller@hva.nl
     affiliations:
@@ -50,7 +50,7 @@ Disadvantage: the company is an R&D company that is presently not regulated yet 
 
 ### Financial Institution
 
-[Rabobank](www.rabobank.com) is one of three large banks in the Netherlands. Rabobank exists since 1972. It employs 43 thousand people. 
+[Rabobank](https://www.rabobank.com) is one of three large banks in the Netherlands. Rabobank exists since 1972. It employs 43 thousand people. 
 
 Contact: Eiso Bos (Global Head Financial Economic Crime Governance, Risk & Change)
 Address: Croeselaan 18, 3521 CB Utrecht
